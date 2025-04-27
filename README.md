@@ -71,7 +71,7 @@ In another terminal:
 ./bin/user2 127.0.0.1 8002 127.0.0.1 8001
 ```
 
-This will transfer the contents of `testfile.txt` from the server to the client, which saves it as `received_file_port_9000.txt`.
+This will transfer the contents of `testfile.txt` from the server to the client, which saves it as `received_file_port_8001.txt`.
 
 ## API Reference
 
