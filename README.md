@@ -1,10 +1,10 @@
 
 
-# KTP (Kernel Transport Protocol): Reliable Transport Protocol Implementation
+# KTP (KGP Transport Protocol): Reliable Transport Protocol Implementation
 
 ## Overview
 
-This repository contains an implementation of KTP (Kernel Transport Protocol), a reliable transport protocol built on top of UDP. The project was developed as part of the CS39006: Networks Laboratory course and demonstrates key concepts of transport layer reliability, flow control, and windowing mechanisms.
+This repository contains an implementation of KTP (KGP Transport Protocol), a reliable transport protocol built on top of UDP. The project was developed as part of the CS39006: Networks Laboratory course and demonstrates key concepts of transport layer reliability, flow control, and windowing mechanisms.
 
 ## Features
 
